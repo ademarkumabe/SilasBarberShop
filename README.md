@@ -2,11 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Este repositório contém o **website mobile-only** desenvolvido como parte de uma **atividade de extensão universitária** voltada à **transformação digital de microempreendedores individuais (MEIs)** no distrito do **Jardim Helena**, em São Paulo.
+Este repositório contém o **website responsivo** desenvolvido como parte de uma **atividade de extensão universitária** voltada à **transformação digital de microempreendedores individuais (MEIs)** no distrito do **Jardim Helena**, em São Paulo.
 
 O projeto foi executado por **Ademar Mitsuo Kumabe Junior**, aluno do curso de **Análise e Desenvolvimento de Sistemas** da **Universidade Cruzeiro do Sul (Campus São Miguel Paulista)**, entre **fevereiro e maio de 2024**, com carga horária total de **200 horas** e impacto direto em **64 pessoas**.
 
-O estabelecimento escolhido para o estudo de caso foi a **Silas Barber Shop**, que agora conta com uma **presença web profissional otimizada exclusivamente para dispositivos móveis** — principal meio de acesso à internet na região.
+O estabelecimento escolhido para o estudo de caso foi a **Silas Barber Shop**, que agora conta com uma **presença web profissional, totalmente responsiva**, adaptando-se a smartphones, tablets e computadores — garantindo acessibilidade e usabilidade para todos os clientes.
 
 ---
 
@@ -30,13 +30,13 @@ O estabelecimento escolhido para o estudo de caso foi a **Silas Barber Shop**, q
 - **Gestão do projeto**: [Trello](https://trello.com/b/oel4aqYx/processo-de-tranformacao-digital-silasbarbershopp)
 - **Hospedagem**: GitHub Pages
 
-> 💡 O site foi desenvolvido **exclusivamente para mobile**, com base em dados da pesquisa amostral que indicaram que a maioria dos usuários acessa a internet via smartphone.
+> 💡 O site foi projetado com **design responsivo**, garantindo uma experiência otimizada em todos os dispositivos, com base nas necessidades identificadas na pesquisa amostral realizada com a comunidade local.
 
 ---
 
 ## 🔗 Links Importantes
 
-- 🌍 **Website (mobile-only)**:  
+- 🌍 **Website (responsivo)**:  
   [https://ademarkumabe.github.io/Projeto-Website-SilasBarberShop/](https://ademarkumabe.github.io/Projeto-Website-SilasBarberShop/)
 
 - 📊 **Métricas em tempo real (Google Analytics)**:  
