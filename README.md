@@ -4,7 +4,7 @@
 
 Este repositório contém o **website responsivo** desenvolvido como parte de uma **atividade de extensão universitária** voltada à **transformação digital de microempreendedores individuais (MEIs)** no distrito do **Jardim Helena**, em São Paulo.
 
-O projeto foi executado por **Ademar Mitsuo Kumabe Junior**, aluno do curso de **Análise e Desenvolvimento de Sistemas** da **Universidade Cruzeiro do Sul (Campus São Miguel Paulista)**, entre **fevereiro e maio de 2024**, com carga horária total de **200 horas** e impacto direto em **64 pessoas**.
+O projeto foi executado com foco na entrega do projeto de extensão do curso de **Análise e Desenvolvimento de Sistemas** da **Universidade Cruzeiro do Sul (Campus São Miguel Paulista)**, entre **fevereiro e maio de 2024**, relacionado a **ODS 8 – Trabalho Decente e Crescimento Econômico** com carga horária total de **200 horas** e impacto direto em **64 pessoas**.
 
 O estabelecimento escolhido para o estudo de caso foi a **Silas Barber Shop**, que agora conta com uma **presença web profissional, totalmente responsiva**, adaptando-se a smartphones, tablets e computadores — garantindo acessibilidade e usabilidade para todos os clientes.
 
