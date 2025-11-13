@@ -10,6 +10,25 @@ O estabelecimento escolhido para o estudo de caso foi a **Silas Barber Shop**, q
 
 ---
 
+## 🆕 Nota de Atualização (Novembro/2025)
+
+> O projeto está em processo de **ampliação para uma estrutura full stack**, iniciando pela **modelagem de dados** como base para futuras integrações com o back-end.  
+> 
+> Foi desenvolvido o **modelo conceitual** completo e, durante a transição para o **modelo lógico**, surgiram **ajustes e refinamentos** importantes — evidenciando detalhes que não eram totalmente perceptíveis na primeira versão.  
+>
+> O trabalho atual concentra-se em:
+> - Revisão e consistência do **modelo conceitual**;
+> - Construção progressiva do **modelo lógico** no **brModelo**;
+> - Planejamento da integração futura com o **back-end** e o banco de dados relacional;
+> - Documentação contínua da evolução do sistema na pasta `/database`.
+>
+> Essa etapa representa o início da **migração do website estático para uma aplicação dinâmica**, consolidando o projeto como uma base real de aprendizado e aplicação prática em **desenvolvimento full stack**.
+>
+> Além disso, o repositório passou a incluir a **licença MIT oficial**, permitindo o uso, modificação e distribuição livre do código para fins educacionais e de pesquisa.
+
+---
+
+
 ## 🎯 Objetivos
 
 - Apoiar MEIs na adoção de práticas de **transformação digital**.
